@@ -1,4 +1,4 @@
-instalaEsta es una implementación básica de la capa de enlace Ethernet, así como un
+Esta es una implementación básica de la capa de enlace Ethernet, así como un
 Cliente y un Servidor Ethernet para demostar el funcionamiento de la librería
 librawnet.
 
